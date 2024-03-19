@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\igorw\\OneDrive\\Área de Trabalho\\TDE_C#_1\\tdelp\\tdelp.csproj",
+      "projectUniqueName": "C:\\Users\\igorw\\Downloads\\TDE_C#_1\\tdelp\\tdelp.csproj",
       "projectName": "tdelp",
-      "projectPath": "C:\\Users\\igorw\\OneDrive\\Área de Trabalho\\TDE_C#_1\\tdelp\\tdelp.csproj",
+      "projectPath": "C:\\Users\\igorw\\Downloads\\TDE_C#_1\\tdelp\\tdelp.csproj",
       "packagesPath": "C:\\Users\\igorw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\igorw\\OneDrive\\Área de Trabalho\\TDE_C#_1\\tdelp\\obj\\",
+      "outputPath": "C:\\Users\\igorw\\Downloads\\TDE_C#_1\\tdelp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\igorw\\AppData\\Roaming\\NuGet\\NuGet.Config"
